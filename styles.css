@@ -115,3 +115,7 @@ cite { display: block; margin-top: 1rem; font-style: normal; font-size: .85rem; 
   .nav__links { position: absolute; top: 68px; left: 0; right: 0; flex-direction: column; gap: 1.2rem; padding: 1.5rem; background: var(--bg); border-bottom: 1px solid var(--line); display: none; }
   .nav__links.is-open { display: flex; }
 }
+
+.cta-row { margin-top: 2rem; text-align: center; }
+#mayoristas .btn + .btn { margin-left: .6rem; }
+@media (max-width: 480px) { #mayoristas .btn + .btn { margin: .8rem 0 0; } }
