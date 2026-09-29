@@ -118,7 +118,3 @@ cite { display: block; margin-top: 1rem; font-style: normal; font-size: .85rem; 
 
 .cta-row { margin-top: 2rem; text-align: center; }
 
-/* Logo (JPG con fondo negro: "screen" lo funde con el fondo oscuro) */
-.logo { display: inline-flex; align-items: center; gap: .5rem; }
-.logo__img { mix-blend-mode: screen; border-radius: 6px; }
-.brand-logo { width: 100%; max-width: 440px; height: auto; margin-inline: auto; display: block; mix-blend-mode: screen; clip-path: inset(1%); }
