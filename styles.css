@@ -117,8 +117,6 @@ cite { display: block; margin-top: 1rem; font-style: normal; font-size: .85rem; 
 }
 
 .cta-row { margin-top: 2rem; text-align: center; }
-#mayoristas .btn + .btn { margin-left: .6rem; }
-@media (max-width: 480px) { #mayoristas .btn + .btn { margin: .8rem 0 0; } }
 
 /* Logo (JPG con fondo negro: "screen" lo funde con el fondo oscuro) */
 .logo { display: inline-flex; align-items: center; gap: .5rem; }
